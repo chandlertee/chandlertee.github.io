@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Chandler Thompson  
+---
+layout: home
+---
+#### **Hi there 👋 I'm Chandler**
 ***A Proven Engineering and Product Leader Driving Scalable Solutions***
 - 🔭 I’m currently working on **developing innovative platforms and designing indie game projects**  
 - 🌱 I’m currently learning **Rust, Godot, and GenAI**  
